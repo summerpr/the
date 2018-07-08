@@ -3,7 +3,7 @@ bs = turtle.Turtle()
 bs.color("blue")
 bs.begin_fill()
 bs.penup()
-bs.left
+bs.left(90)
 bs.backward(540)
 bs.pendown()
 bs.left(90)
